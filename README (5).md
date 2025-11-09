@@ -1,11 +1,10 @@
-Tittle:
-Using NFHS Data to Analyze Socioeconomic and Health Indicators in India
+Title:
+District-wise Analysis of IPC Crimes in India (2017 Onwards)
 
-The India Data Portal (IDP), an open-access portal designed to offer trustworthy and transparent data on a range of socioeconomic and health variables throughout India, provided the dataset used in this study. Supported by the Indian government, the India Data Portal is a useful tool for scholars, decision-makers, and organizations looking to use data to comprehend national and regional development trends.
 
-Short Description:
+Short description
+This report analyzes district-level data on Indian Penal Code (IPC) crimes from 2017 onwards to reveal spatial and temporal crime patterns, identify hotspots, and surface socio-demographic correlates where available. It combines descriptive and inferential analysis with unsupervised and supervised machine-learning techniques (clustering, time-series forecasting and count regression) to produce actionable findings for law-enforcement planning and policy.
 
-This study examines important socioeconomic and health variables in several Indian states using data from the National Family Health Survey (NFHS), which is accessible via the India Data Portal.    Understanding regional differences in diet, health outcomes, and demographics is the main goal of the investigation.    These kinds of insights are essential for both identifying areas that need policy intervention and supporting data-driven decision-making in social development and public health.    The findings show notable geographical differences, highlighting the necessity of focused approaches to enhance socioeconomic well-being and health fairness in India.
 
 Methods
 1. Data Source and Collection
@@ -145,8 +144,6 @@ You can modify file paths, variable selections, or model parameters in the code 
 Experiments and Results Summary
 1. Overview of Experiments
 
-Several analytical experiments were carried out using the NFHS dataset that was acquired from the India Data Portal in order to assess the correlation between socioeconomic and health indicators in India. The main goals were to:
-
 Make sure the necessary programs and libraries are installed on your machine before executing the code:
 
  Python 3.8 or above
@@ -195,8 +192,6 @@ deeper understanding of regional differences that conventional descriptive metho
 To better understand variable correlations and regional differences, data visualization was utilized:
 
   The relationships between socioeconomic and health indicators were displayed using heatmaps.
-
-  To show variations in indices including maternal health, literacy, and child malnutrition, state-by-state bar charts and choropleth maps were employed.
 
   Relationships between variables, such as those between income and health outcomes or education and nutrition levels, were displayed using scatter plots.
   
