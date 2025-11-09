@@ -8,10 +8,9 @@ This report analyzes district-level data on Indian Penal Code (IPC) crimes from 
 
 Methods
 1. Data Source and Collection
+The data utilized in this study was obtained from the India Data Portal, which provides publicly accessible socioeconomic and administrative datasets for research and policy analysis. The specific dataset used is the District-wise IPC Crimes Dataset (2017 Onwards), compiled from the National Crime Records Bureau (NCRB) under the Ministry of Home Affairs, Government of India.
 
-The India Data Portal, which makes socioeconomic and health datasets publicly accessible, provided the data used in this study.   The National Family Health study (NFHS), a nationally representative study that was carried out over several rounds, is the specific source of the dataset.   At the state and federal levels, the NFHS gathers a lot of data on nutrition, health, and demographic indicators.
-
-(Insert Table 1: Summary of NFHS Dataset Variables — e.g., number of records, indicators used, time period, and geographical coverage.)
+This dataset provides comprehensive information on district-level crime statistics recorded under the Indian Penal Code (IPC) from the year 2017 onwards. It includes detailed counts of different categories of crimes — such as crimes against women, property crimes, violent crimes, and cybercrimes — along with district identifiers and temporal details.
 
 2. Data Preprocessing
 
